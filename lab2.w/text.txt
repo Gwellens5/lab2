@@ -1,0 +1,1 @@
+Input is read from stdin, whether from the keyboard, redirected from a file, or piped in from another command. Assume the input contains only integers, separated by white space (space, tab, newline). Assume the smallest integer is zero; ignore any negative integers.
